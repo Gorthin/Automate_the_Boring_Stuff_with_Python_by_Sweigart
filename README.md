@@ -14,7 +14,7 @@
 The repository of hands-on projects at the end of each chapter in Automate the Boring Stuff with Python by Al Sweigart.
 
 ## Screenshots
-![Cover](.\img\abs_py.jpg)
+#![Cover](.\img\abs_py.jpg)
 
 ## Technologies
 * Python - version 3.8
@@ -38,10 +38,12 @@ To-do list:
 * Wow improvement to be done 2
 
 ## Status
+I plan to do all the practical exercises in the book.
 Project is: _in progress_.
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+This app is inspired by Al Sweigart book „Automate the Boring Stuff with Python”
+Project based on https://automatetheboringstuff.com
 
 ## Contact
 Created by [@adrian88szymanski](https://github.com/adrian88szymanski) - feel free to contact me!
