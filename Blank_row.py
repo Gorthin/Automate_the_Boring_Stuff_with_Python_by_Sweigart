@@ -8,7 +8,6 @@ Usage: blank_row_inserter.py takes 3 arguments
 e.g. python blank_row_inserter.py test.xlsx 3 2
      Would Insert 2 blank rows starting at row 3 into a copy of 'test.xlxs'
 """
-
 import sys
 import openpyxl
 

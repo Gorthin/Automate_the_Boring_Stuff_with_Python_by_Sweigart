@@ -1,9 +1,5 @@
 #! python3
 
-"""Creates a N x N multiplication table in a spreadsheet.
-Usage: multiplication_table.py <N> - Creates N X N table
-"""
-
 import sys
 import openpyxl
 from openpyxl.utils import get_column_letter

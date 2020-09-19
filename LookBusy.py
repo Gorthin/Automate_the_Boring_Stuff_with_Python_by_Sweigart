@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#! python3
 
 """Nudges the mouse so messaging programs don't go into idle mode."""
 

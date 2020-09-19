@@ -1,12 +1,7 @@
 #! python3
-# photo_folder_finder.py
-# Author: Kene Udeh
 # Source: Automate the Boring stuff with python Ch. 17 Project
 
-
 import os
-
-
 from PIL import Image
 
 

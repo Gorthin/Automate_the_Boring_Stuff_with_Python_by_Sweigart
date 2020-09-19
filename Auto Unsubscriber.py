@@ -8,7 +8,6 @@ import bs4
 import imapclient
 import pyzmail
 
-
 def unsub_scan(user_name, user_pass):
     """Returns a list of the unsubscribe links in a Gmail inbox."""
     unsub_links = []

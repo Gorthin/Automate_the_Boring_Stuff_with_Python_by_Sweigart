@@ -6,7 +6,6 @@
 import random
 import smtplib
 
-
 def emailer(chores, emails):
     """emails random chores to emails
     Args:

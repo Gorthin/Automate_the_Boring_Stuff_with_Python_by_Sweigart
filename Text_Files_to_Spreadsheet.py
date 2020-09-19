@@ -1,13 +1,8 @@
 #! python3
-# textToSheet.py
-# Author: Kene Udeh
 # Source: Automate the Boring stuff with python Ch. 12 Project
 
 import os
-
-
 import openpyxl
-
 
 def textToSheet(directory, filename):
     """converts text files to columns in excel worksheet

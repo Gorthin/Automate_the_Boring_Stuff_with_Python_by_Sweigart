@@ -1,6 +1,4 @@
 #! python3
-# resizeAndAddLogo.py
-# Author: Kene Udeh
 # Source: Automate the Boring stuff with python Ch. 17 Project
 
 
