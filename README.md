@@ -10,7 +10,7 @@
 The repository of hands-on projects at the end of each chapter in Automate the Boring Stuff with Python by Al Sweigart.
 
 ## Screenshots
-#![Cover](.\img\abs_py.jpg)
+#![Cover](img/abs_py.jpg)
 
 ## Technologies
 * Python - version 3.8
